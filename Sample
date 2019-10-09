@@ -1,0 +1,7 @@
+git add
+git commit -a -m
+git rm
+git remote
+git checkout
+git status -s
+git diff
